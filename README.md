@@ -2,20 +2,16 @@
 
 Um jogo da velha feito usando React JS
 
-## What it does
 
-Making it simple:
+# Tecnologias utilizadas
 
-1. This bot will ask you for content (or it will suggest you some trends from [google, imdb, (more in the future)]).
-2. After, it will search on Wikipedia's API for getting information
-3. After, it will search for images (with helper of IBM Watson)
-4. After, it will build a video, using AfterEffects (aerender engine)
-5. Finally, it will upload for youtube with title + thumbnail + tags and description.
+![HTML](https://img.shields.io/badge/-HTML-3e3e3e?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-3e3e3e?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-3e3e3e?style=for-the-badge&logo=Javascript)&nbsp;
+![React](https://img.shields.io/badge/-ReactJS-3e3e3e?style=for-the-badge&logo=react)&nbsp;
 
-## Tecnologias utilizadas
 
-Html - CSS - ReactJS
+# Veja o game funcionando
 
-## I'm learning and building things like
+https://tic-tac-toe-reactjs-pi.vercel.app/
 
-Custom Google Trends Scrapper - IMDB Search Scrapper - Custom Wikipedia API - Custom Google Images Search (more comming soon)
