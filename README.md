@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 
 Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
-Após clonar o repositório você poderá usar o comando `npm install` ou o comando `yarn` para instalar todas as dependencias necessárias.
+Após clonar o repositório você poderá usar o comando `npm install` ou o comando `yarn` para instalar todas as dependências necessárias.
 
 ## Scripts Disponíveis
 No diretório do projeto, você pode executar:
