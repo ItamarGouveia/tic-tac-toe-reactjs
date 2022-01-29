@@ -36,7 +36,7 @@ Em vez disso, ele copiará todos os arquivos de configuração e as dependência
 
 Você não precisa usar nunca eject. O conjunto de recursos com curadoria é adequado para implantações pequenas e médias, e você não deve se sentir obrigado a usar esse recurso. No entanto, entendemos que essa ferramenta não seria útil se você não pudesse personalizá-la quando estiver pronto para isso.
 
-## Saber mais
+## Saiba mais
 Você pode aprender mais na [documentação do Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
 
 Para aprender o React, confira a [documentação do React](https://reactjs.org/). .
